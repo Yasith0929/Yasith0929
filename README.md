@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm passionate about computer science. Here's what
 
 Here are some of the technologies I work with:
 
-- Programming Languages: **[Languages, e.g., JavaScript, Python]**
-- Frameworks/Libraries: **[Frameworks, e.g., React, Django]**
-- Tools: **[Tools, e.g., Git, Docker]**
+- Programming Languages: **Python , Javascript , Java , php , C**
+- Frameworks/Libraries: **Laravel , react**
+- Tools: **Git**
 
 ---
 
@@ -33,9 +33,10 @@ Here are some of the technologies I work with:
 
 Let’s connect!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/your-profile)
-- **Portfolio:** [Your Portfolio Website](https://yourwebsite.com)
+- **LinkedIn:** www.linkedin.com/in/yasith-jayanga-46777b283.
+
+
+
 
 ---
 
