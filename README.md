@@ -1,17 +1,14 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yasith Jayanga 👋
 
-Welcome to my GitHub profile! I'm passionate about [Your Interests/Profession]. Here's what you can expect to find here.
+Welcome to my GitHub profile! I'm passionate about computer science. Here's what you can expect to find here.
 
 ---
 
 ## About Me
-
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 🤔 I’m looking for help with **[Area where you need help]**
-- 💬 Ask me about **[Topics of Expertise or Interest]**
-- 📫 How to reach me: **[Your Email/Contact Info]**
+- 🌱 I’m currently learning **BSC (HONS) IN SOFTWARE ENGINEERING FROM NSBM GREEN UNIVERSITY**
+- 👯 I’m looking to collaborate on **Web Development & Software related projects**
+- 💬 Ask me about **web design & development , software development , graphic design**
+- 📫 How to reach me: **yasithjayanga221@gmail.com**
 - ⚡ Fun fact: **[A Fun Fact About You]**
 
 ---
